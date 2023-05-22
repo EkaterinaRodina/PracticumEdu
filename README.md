@@ -21,7 +21,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy
 
 
 <tr>
-      <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/A_B_test"><b>Terraform AWS Projects</b></a></td>
+      <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/A_B_test"><b> Evaluation of A/B test results </b></a></td>
 </tr>    
 
   </tbody>
