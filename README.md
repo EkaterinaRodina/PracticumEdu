@@ -15,6 +15,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Status</b></td>
     </tr>
   </thead>
   <tbody>
@@ -26,6 +27,8 @@ Python, Pandas, Numpy, Matplotlib, SciPy
 </tr>    
 <tr>
       <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/Project"><b> Food startup </b></a></td>
+      <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/A_B_test"><b> Evaluation of A/B test results </b></a></td>
+
 </tr>    
 
   </tbody>
