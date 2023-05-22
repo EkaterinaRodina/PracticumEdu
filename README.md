@@ -27,7 +27,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy
 </tr>    
 <tr>
       <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/Project"><b> Food startup </b></a></td>
-      <td><a href="https://github.com/EkaterinaRodina/PracticumEdu/tree/main/A_B_test"><b> Evaluation of A/B test results </b></a></td>
+      <td><b> Сompleted </b></a></td>
 
 </tr>    
 
