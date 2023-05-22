@@ -19,8 +19,8 @@ Python, Pandas, Numpy, Matplotlib, SciPy
   </thead>
   <tbody>
 
-<tr>
-      <td><a href="[https://github.com/akylson/Terraform_Projects](https://github.com/EkaterinaRodina/PracticumEdu/tree/main/A_B_test)"><b>Terraform AWS Projects</b></a></td>
-</tr>    
+    <tr>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
+    </tr>
   </tbody>
 </table>
